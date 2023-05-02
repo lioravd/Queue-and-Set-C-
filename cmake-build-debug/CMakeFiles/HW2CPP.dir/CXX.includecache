@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lior9/CLionProjects/HW2CPP/Menu.cpp
+Menu.h
+C:/Users/lior9/CLionProjects/HW2CPP/Menu.h
+
+C:/Users/lior9/CLionProjects/HW2CPP/Menu.h
+myQueue.h
+C:/Users/lior9/CLionProjects/HW2CPP/myQueue.h
+Set.h
+C:/Users/lior9/CLionProjects/HW2CPP/Set.h
+
+C:/Users/lior9/CLionProjects/HW2CPP/Set.cpp
+Set.h
+C:/Users/lior9/CLionProjects/HW2CPP/Set.h
+
+C:/Users/lior9/CLionProjects/HW2CPP/Set.h
+iostream
+-
+cstring
+-
+
+C:/Users/lior9/CLionProjects/HW2CPP/main.cpp
+Menu.h
+C:/Users/lior9/CLionProjects/HW2CPP/Menu.h
+
+C:/Users/lior9/CLionProjects/HW2CPP/myQueue.cpp
+myQueue.h
+C:/Users/lior9/CLionProjects/HW2CPP/myQueue.h
+
+C:/Users/lior9/CLionProjects/HW2CPP/myQueue.h
+iostream
+-
+vector
+-
+
